@@ -2,7 +2,9 @@
 
 - 🔭 Sou estudante de Eng. de Software no UNICEUB
 - 🌱 Estou aprendendo atualmente PowerBI/C#
+  
 ##
+
 <div>
   <a href="https://github.com/TheGNL">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TheGNL&show_icons-true&theme-dark&include_all_commits-true&count_private_true"/>
