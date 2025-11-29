@@ -5,10 +5,13 @@
   
 ##
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TheGNL&show_icons=true&theme=dark)
+<div align="center">
+  <a href="https://github.com/TheGNL">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheGNL&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=1"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGNL&layout=compact&langs_count=8&theme=dark&v=1"/>
+  </a>
+</div>
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGNL&layout=compact&theme=dark)
-   
 ##
 
 <div style="display: inline_block"><br>
